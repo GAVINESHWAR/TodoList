@@ -7,7 +7,7 @@
 .container {
   width: 100%;
   min-height: 100vh;
-  background-image: url(background.jpg);
+  background-image: url(/background.jpg);
   /* background:linear-gradient(135deg,#153677,#4e085f); */
   padding: 10px;
 }
@@ -17,7 +17,7 @@
   /* background: #fff; */
   color: black;
   font-weight: bold;
-  background-image: url(listback.png);
+  background-image: url(/listback.png);
   margin: 100px auto 20px;
   padding: 40px 30px 70px;
   border-radius: 10px;
