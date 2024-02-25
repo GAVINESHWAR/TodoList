@@ -7,7 +7,7 @@
 .container {
   width: 100%;
   min-height: 100vh;
-  background-image: url(/background.jpg);
+  background-image: url("https://png.pngtree.com/background/20220731/original/pngtree-blue-school-patterns-background-picture-image_1913020.jpg");
   /* background:linear-gradient(135deg,#153677,#4e085f); */
   padding: 10px;
 }
@@ -17,7 +17,7 @@
   /* background: #fff; */
   color: black;
   font-weight: bold;
-  background-image: url(/listback.png);
+  background-image: url("https://blog.lulu.com/wp-content/uploads/2020/07/072120-ToDoList-Blog.png");
   margin: 100px auto 20px;
   padding: 40px 30px 70px;
   border-radius: 10px;
